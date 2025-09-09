@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.1.0/schema.json",
+  "metadata": {
+    "type": "SnowflakeDatabase",
+    "displayName": "fab1234dfdgw1",
+    "description": "This is a sample Snowflake Database for testing purposes.",
+    "sensitivityLabelId": "00000000-0000-0000-0000-000000000000"
+  },
+  "config": {
+    "version": "2.1",
+    "logicalId": "04631f4a-a60d-afeb-481c-889da8538aea"
+  }
+}
